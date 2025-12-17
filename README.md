@@ -97,13 +97,7 @@ Cross-platform (Android/iOS/Web)
 
 Fully open-source and reproducible
 
-yaml
-Copy code
+
 
 ---
 
-
-
-We can now generate **`toolkit_document.md`** — the main toolkit report for your capstone — which will be the **detailed submission file** including setup, MWE, explanations, and reflections.  
-
-Do you want me to generate **`toolkit_document.md`** next?
